@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: "Arial";
+    height: 500px;
 }
 
 h1{ 
@@ -12,6 +13,14 @@ h1{
     display: flex;
     background-color: aquamarine;
     color: brown;
-    width: 50%;
-    margin: auto;
+    width: 100%;
+    margin: 500px auto;
+    box-shadow: 3px 3px 3px cadetblue;
+    height: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+#pp{
+    color: blue;
 }
