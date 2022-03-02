@@ -9,9 +9,11 @@ h1{
     border-radius: 50pc;
 }
 #nia{
-    display: flex;
     background-color: aquamarine;
     color: brown;
     width: 50%;
-    margin: auto;
+    margin:100px auto;
+}
+#pp{
+    color: blue;
 }
